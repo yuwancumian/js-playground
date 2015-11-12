@@ -1,0 +1,29 @@
+{
+  "name": "js-playground",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+      "play": "./bin/play.js"
+   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yuwancumian/js-playground.git"
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2"
+  ],
+  "author": "yuwancumian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuwancumian/js-playground/issues"
+  },
+  "homepage": "https://github.com/yuwancumian/js-playground",
+  "dependencies": {
+    "shelljs": "^0.5.3"
+  }
+}
